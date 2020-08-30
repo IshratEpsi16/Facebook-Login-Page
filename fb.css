@@ -1,0 +1,202 @@
+body{
+	margin:0;
+}
+.header{
+	
+}
+.div1{
+	background-color:#3B5998;
+	width:50%;
+	height:80px;
+	float:left;
+	
+	
+}
+.div1 h1{
+	font-size:40px;
+	color:#FFFFFF;
+	margin-left:15%;
+	margin-top:4%;
+	font-family:tahoma;
+	
+}
+.div2{
+	background-color:#3B5998;
+	width:20%;
+	height:80px;
+	overflow:hidden;
+	float:left;
+	
+}
+.div2 input{
+	margin-left:30%;
+	color:white;
+	
+}
+.div2 p{
+	margin-left:30%;
+	color:white;
+	margin-top:2%;
+}
+.div3{
+	background-color:#3B5998;
+	width:15%;
+	height:80px;
+	overflow:hidden;
+	float:left;
+}
+.div3 input{
+	
+	color:blue;
+	
+}
+.div3 p{
+	color:white;
+	margin-top:1%;
+}
+.div3 a{
+	color:#9CABC5;
+	font-size:15px;
+	text-decoration:none;
+}
+
+.div4{
+	background-color:#3B5998;
+	width:15%;
+	height:80px;
+	overflow:hidden;
+}
+.div4 input{
+	
+	color:white;
+	background-color:#365899;
+	
+}
+
+.image{
+	
+	width:50%;
+	height:50%;
+	
+	float:left;
+	overflow:hidden;
+}
+.image p{
+	margin-left:15%;
+	font-size:23px;
+	color:#0E385F;
+	font-family:Helvetica, Arial, sans-serif;
+}
+.image img{
+	margin-left:20%;
+	width:70%;
+	
+}
+.right-text{
+	width:50%;
+	height:50%;
+	
+	overflow:hidden;
+}
+.right-text h1{
+	font-size:40px;
+	margin-left:7%;
+	line-height:30px;
+	font-family:Helvetica, Arial, sans-serif;
+}
+.right-text h4{
+	font-size:20px;
+	margin-left:7%;
+	line-height:0px;
+}
+.firstname{
+	
+	height:35px;
+	width:220px;
+	border-radius:6px;
+	
+}
+.surname{
+	height:35px;
+	width:120px;
+	border-radius:6px;
+}
+.phone{
+	height:35px;
+	width:365px;
+	border-radius:6px;
+}
+.pass{
+	height:35px;
+	width:365px;
+	border-radius:6px;
+}
+.right-form{
+	padding-left:3.5%;
+	background-color:white;
+	overflow:hidden;
+}
+.right-form p{
+	color:#90949C;
+	font-size:20px;
+}
+.right-form h6{
+	color:#90949C;
+	font-size:12px;
+	font-family:Helvetica, Arial, sans-serif;
+}
+.right-form h4{
+	color:#666666;
+	font-family:Helvetica, Arial, sans-serif;
+}
+.right-form a{
+	color:#3858A3;
+	
+}
+
+.sign{
+	
+	border-radius: 2px;
+	border-style:transparent;
+	width:18%;
+	border-color:white;
+	color:white;
+	background-color:#67A254;
+	padding: 15px 15px 15px 15px;
+	
+	
+}
+.sign:hover{
+	
+	
+	border-radius: 2px;
+	color:white;
+	background-color:#009432;
+	display: inline-block;
+	
+	border-color:white;
+	border-style:transparent;
+	width:18%;
+}
+.footer{
+	margin-left:8%;
+	color:#8A8D91;
+	font-size:13px;
+	font-family:Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.hr{
+	margin-left:8%;
+	margin-right:8%;
+}
+.footer2{
+	margin-left:8%;
+	color:#8A8D91;
+	font-size:13px;
+	font-family:Helvetica, Arial, sans-serif;
+}
+
+
+
